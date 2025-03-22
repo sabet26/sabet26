@@ -25,7 +25,7 @@ I am **Elisabet Simamora**, a passionate developer and IT enthusiast. I graduate
 ## 🚀 Featured Projects  
 ### 🔥 **Transport Carbon Calculator**
 🌱 Calculate carbon footprint from transportation.
-![Carbon Calculator]https://id.images.search.yahoo.com/yhs/view;_ylt=AwrKBQlaMt5nObkg2YIeHYpQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2FmOTYxYmI4MjFiOWNmYzRhYzE5OTIyZjMzNTU2NjliBGdwb3MDNARpdANiaW5n?back=https%3A%2F%2Fid.images.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dcarbon%2Bcalculator%26ei%3DUTF-8%26type%3Dtype80260-30001410%26fr%3Dyhs-sz-002%26hsimp%3Dyhs-002%26hspart%3Dsz%26param1%3D994368120%26tab%3Dorganic%26ri%3D4&w=474&h=249&imgurl=www.publishers.org.uk%2Fwp-content%2Fuploads%2F2022%2F09%2FCarbon-calculator_1200x630.png&rurl=https%3A%2F%2Fwww.publishers.org.uk%2Fpublications%2Fpublishers-association-carbon-calculator-tool-user-guidance-and-documentation%2F&size=715KB&p=carbon+calculator&oid=af961bb821b9cfc4ac19922f3355669b&fr2=&fr=yhs-sz-002&tt=Publishers+Association+Carbon+Calculator+tool+user+guidance+and+...&b=0&ni=140&no=4&ts=&tab=organic&sigr=x8SuN8J2jvQj&sigb=b1TqW3bO.unS&sigi=xp_a0pFNux1u&sigt=yBh1Ist95ZDY&.crumb=mGOIBTG62ow&fr=yhs-sz-002&hsimp=yhs-002&hspart=sz&type=type80260-30001410&param1=994368120
+![Carbon Calculator](https://upload.wikimedia.org/wikipedia/commons/8/8b/Carbon_footprint.svg)
 
 ### 📦 **Manajemen Paket Polibatam**
 📦 A package logging system using **BinderByte API**.
@@ -39,10 +39,10 @@ I am **Elisabet Simamora**, a passionate developer and IT enthusiast. I graduate
 
 ## 🛠 Tech Stack & Skills  
 ### 💻 Programming Languages
-- 🐍 Python | 🌐 PHP | ⚡ JavaScript  
+- 🐖 Python | 🌐 PHP | ⚡ JavaScript  
 
 ### 🔧 Tools & Frameworks
-- 🛠 XAMPP | 🏗️ GitHub | 🎮 Pygame  
+- 🛠 XAMPP | 🏰️ GitHub | 🎮 Pygame  
 
 ### 🤝 Soft Skills
 - 🧠 Problem Solving | 🤝 Teamwork | 💡 Critical Thinking  
@@ -51,7 +51,7 @@ I am **Elisabet Simamora**, a passionate developer and IT enthusiast. I graduate
 
 ---
 
-## 📬 Get in Touch!  
+## 💌 Get in Touch!  
 📧 **Email:** [elisabetsimamora26@gmail.com](mailto:elisabetsimamora26@gmail.com)  
 🔗 **GitHub:** [sabet26](https://github.com/sabet26/)  
 🔗 **LinkedIn:** [Elisabet Simamora](https://www.linkedin.com/in/elisabet-simamora-ab536a2b1/)  
