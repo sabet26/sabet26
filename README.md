@@ -50,12 +50,7 @@
 - 🐖 Python | 🌐 PHP | ⚡ JavaScript  
 
 ### 🔧 Tools & Frameworks
-- 🛠 XAMPP | 🏰️ GitHub | 🎮 Pygame  
-
-### 🤝 Soft Skills
-- 🧠 Problem Solving | 🤝 Teamwork | 💡 Critical Thinking  
-
-![Tech Stack](https://media.giphy.com/media/UQJlZ2w7Z8DjGUd5Zo/giphy.gif)
+- 🛠 XAMPP | 🏰️ GitHub | 🎮 Pygame
 
 ---
 
@@ -65,5 +60,3 @@
 🔗 **LinkedIn:** [Elisabet Simamora](https://www.linkedin.com/in/elisabet-simamora-ab536a2b1/)  
 
 ---
-
-✨ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
