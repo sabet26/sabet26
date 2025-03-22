@@ -52,7 +52,7 @@ I am currently studying at the Batam State Polytechnic majoring in Informatics i
             <h2>Educational background</h2>
             <ul>
                 <li><strong>Politeknik Negeri Batam</strong> (2024 - Sekarang)</li>
-                <li><strong>SMK Negeri 1 Batam X</strong> (2021 - 2024)</li>
+                <li><strong>SMK Negeri 1 Batam </strong> (2021 - 2024)</li>
             </ul>
         </div>
     </section>
