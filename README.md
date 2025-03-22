@@ -17,15 +17,15 @@ I am currently studying at the Batam State Polytechnic majoring in Informatics i
 ---
 
 ## 🎓 Educational Background  
-- **Politeknik Negeri Batam** (2024 - Sekarang)  
+- **Politeknik Negeri Batam** (2024 - Now)  
 - **SMK Negeri 1 Batam** (2021 - 2024)
 
 ---
 
 ## 🚀 Projects  
-- 🌱 **[Transport Carbon Calculator](#)** - Menghitung jejak karbon dari transportasi  
-- 📦 **[Manajemen Paket Polibatam](#)** - Aplikasi pencatatan paket dengan API BinderByte  
-- 🎮 **[Game Grid Berbasis Pygame](#)** - Mirip Tetris  
+- 🌱 **[Transport Carbon Calculator](#)** - Calculate carbon footprint from transportation
+- 📦 **[Manajemen Paket Polibatam](#)** - Package logging application with BinderByte API
+- 🎮 **[Game Grid Berbasis Pygame](#)** - Similar to Tetris  
 
 ---
 
