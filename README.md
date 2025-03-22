@@ -28,9 +28,8 @@
 ### 🔥 **Transport Carbon Calculator**
 🌱 Calculate carbon footprint from transportation.
 <p align="center">
-  <img src="https://github.com/sabet26/sabet26/blob/main/th%20(4).jpg?size=200" width="200">
+  <img src="https://github.com/sabet26/sabet26/blob/main/th%20(4).jpg?size=400" width="400">
 </p>
-![Carbon Calculator](https://github.com/sabet26/sabet26/blob/main/th%20(4).jpg).
 
 ### 📦 **Manajemen Paket Polibatam**
 📦 A package logging system using **BinderByte API**.
