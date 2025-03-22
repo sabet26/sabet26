@@ -33,7 +33,9 @@
 
 ### 📦 **Manajemen Paket Polibatam**
 📦 A package logging system using **BinderByte API**.
-![Package Management](https://github.com/sabet26/sabet26/blob/main/logo%20simba%20new.png)
+<p align="center">
+  <img src="https://github.com/sabet26/sabet26/blob/main/logo%20simba%20new.png?size=100" width="100">
+</p>
 
 ### 🎮 **Game Grid Berbasis Pygame**
 🕹️ A **Tetris-like** game built with Python & Pygame.
