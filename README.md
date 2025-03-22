@@ -46,4 +46,3 @@ I am currently studying at the Batam State Polytechnic majoring in Informatics i
 
 ---
 
-⭐ Jangan lupa untuk memberikan **Star** pada repositori saya! ⭐
