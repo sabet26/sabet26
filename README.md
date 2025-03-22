@@ -39,7 +39,9 @@
 
 ### 🎮 **Game Grid Berbasis Pygame**
 🕹️ A **Tetris-like** game built with Python & Pygame.
-![Tetris](https://upload.wikimedia.org/wikipedia/en/7/7d/Tetris_NES_boxart.png)
+<p align="center">
+  <img src="https://github.com/sabet26/sabet26/blob/main/th%20(5).jpg?size=400" width="400">
+</p>
 
 ---
 
