@@ -1,6 +1,6 @@
 # Elisabet Simamora
 
-![Profile Picture](https://avatars.githubusercontent.com/u/https:/sabet26).
+![Profile Picture](https://https://github.com/sabet26.png).
 
 **Mahasiswa & Developer**  
 📍 Politeknik Negeri Batam | Teknik Informatika
