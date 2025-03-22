@@ -27,7 +27,7 @@
 ## 🚀 Featured Projects  
 ### 🔥 **Transport Carbon Calculator**
 🌱 Calculate carbon footprint from transportation.
-![Carbon Calculator](https://upload.wikimedia.org/wikipedia/commons/8/8b/Carbon_footprint.svg)
+![Carbon Calculator]https://github.com/sabet26/sabet26/blob/main/th%20(4).jpg
 
 ### 📦 **Manajemen Paket Polibatam**
 📦 A package logging system using **BinderByte API**.
