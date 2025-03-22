@@ -54,7 +54,7 @@
 
 ---
 
-## 💌 Get in Touch!  
+## 📞 Contact Me 
 📧 **Email:** [elisabetsimamora26@gmail.com](mailto:elisabetsimamora26@gmail.com)  
 🔗 **GitHub:** [sabet26](https://github.com/sabet26/)  
 🔗 **LinkedIn:** [Elisabet Simamora](https://www.linkedin.com/in/elisabet-simamora-ab536a2b1/)  
