@@ -8,9 +8,11 @@
 ---
 
 ## 🌍 About Me  
-I am **Elisabet Simamora**, a passionate developer and IT enthusiast. I graduated from **SMK Negeri 1 Batam** majoring in **Computer and Network Engineering** (2021 - 2024). Now, I am pursuing my studies at **Politeknik Negeri Batam**, majoring in **Informatics - Software Engineering Technology**. 
+I am Elisabet Simamora, a graduate of SMK Negeri 1 Batam majoring in Computer and Network Engineering. I entered in 2021 and graduated in 2024.
 
-💡 *My journey in tech started with an interest in networking, then expanded to software development.*
+During school I studied various aspects of information technology such as computer network installation & infrastructure, server management & network security, basic programming.
+
+I am currently studying at the Batam State Polytechnic majoring in Informatics in the Software Engineering Technology Study Program.
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
